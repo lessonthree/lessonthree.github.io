@@ -98,6 +98,14 @@ header h2 {
   max-width: 100%;
 }
 
+.appimage {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px; 
+  border-bottom-left-radius: 8px; 
+  border-bottom-right-radius: 8px;
+  border:1px solid #fff;
+}
+
 #downloads {
   margin-bottom: 40px;
 }
